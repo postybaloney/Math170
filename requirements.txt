@@ -1,0 +1,7 @@
+numpy
+jax
+jaxlib
+tensorflow-datasets
+matplotlib
+tensorflow
+nbconvert
